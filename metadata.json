@@ -1,0 +1,5 @@
+{
+  "name": "Speakify",
+  "description": "A modern, real-time text-to-speech converter powered by Gemini AI.",
+  "requestFramePermissions": []
+}
